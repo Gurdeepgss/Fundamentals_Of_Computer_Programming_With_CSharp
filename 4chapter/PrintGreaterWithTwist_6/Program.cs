@@ -7,6 +7,13 @@ namespace PrintGreaterWithTwist_6
         static void Main(string[] args)
         {
 			/*
+			 * Check the Book for it's solutions there are 3 possible solutions
+			 * And as per those solutions, this solution seems to be wrong, because this
+			 * solution is not present in there(which if it were considered right should have
+			 * been thre).
+			 */
+
+			/*
 			 * This program is to be done without using conditional statements
 			 */
             Console.WriteLine("Find which number is greater");
