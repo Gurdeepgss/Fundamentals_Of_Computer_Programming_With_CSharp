@@ -1,0 +1,11 @@
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/2chapter/QuotationsInStrings_9/obj/Debug/netcoreapp2.2/QuotationsInStrings.csprojAssemblyReference.cache
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/2chapter/QuotationsInStrings_9/obj/Debug/netcoreapp2.2/QuotationsInStrings.csproj.CoreCompileInputs.cache
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/2chapter/QuotationsInStrings_9/obj/Debug/netcoreapp2.2/QuotationsInStrings.AssemblyInfoInputs.cache
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/2chapter/QuotationsInStrings_9/obj/Debug/netcoreapp2.2/QuotationsInStrings.AssemblyInfo.cs
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/2chapter/QuotationsInStrings_9/bin/Debug/netcoreapp2.2/QuotationsInStrings.deps.json
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/2chapter/QuotationsInStrings_9/bin/Debug/netcoreapp2.2/QuotationsInStrings.runtimeconfig.json
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/2chapter/QuotationsInStrings_9/bin/Debug/netcoreapp2.2/QuotationsInStrings.runtimeconfig.dev.json
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/2chapter/QuotationsInStrings_9/bin/Debug/netcoreapp2.2/QuotationsInStrings.dll
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/2chapter/QuotationsInStrings_9/bin/Debug/netcoreapp2.2/QuotationsInStrings.pdb
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/2chapter/QuotationsInStrings_9/obj/Debug/netcoreapp2.2/QuotationsInStrings.dll
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/2chapter/QuotationsInStrings_9/obj/Debug/netcoreapp2.2/QuotationsInStrings.pdb

@@ -1,0 +1,11 @@
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/2chapter/StringAssignedToObject/bin/Debug/netcoreapp2.2/StringAssignedToObject.deps.json
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/2chapter/StringAssignedToObject/bin/Debug/netcoreapp2.2/StringAssignedToObject.runtimeconfig.json
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/2chapter/StringAssignedToObject/bin/Debug/netcoreapp2.2/StringAssignedToObject.runtimeconfig.dev.json
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/2chapter/StringAssignedToObject/bin/Debug/netcoreapp2.2/StringAssignedToObject.dll
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/2chapter/StringAssignedToObject/bin/Debug/netcoreapp2.2/StringAssignedToObject.pdb
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/2chapter/StringAssignedToObject/obj/Debug/netcoreapp2.2/StringAssignedToObject.csprojAssemblyReference.cache
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/2chapter/StringAssignedToObject/obj/Debug/netcoreapp2.2/StringAssignedToObject.csproj.CoreCompileInputs.cache
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/2chapter/StringAssignedToObject/obj/Debug/netcoreapp2.2/StringAssignedToObject.AssemblyInfoInputs.cache
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/2chapter/StringAssignedToObject/obj/Debug/netcoreapp2.2/StringAssignedToObject.AssemblyInfo.cs
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/2chapter/StringAssignedToObject/obj/Debug/netcoreapp2.2/StringAssignedToObject.dll
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/2chapter/StringAssignedToObject/obj/Debug/netcoreapp2.2/StringAssignedToObject.pdb

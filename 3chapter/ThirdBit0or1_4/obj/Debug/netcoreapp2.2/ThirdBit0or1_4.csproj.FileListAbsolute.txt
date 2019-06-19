@@ -1,0 +1,11 @@
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/3chapter/ThirdBit0or1_4/obj/Debug/netcoreapp2.2/ThirdBit0or1_4.csprojAssemblyReference.cache
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/3chapter/ThirdBit0or1_4/obj/Debug/netcoreapp2.2/ThirdBit0or1_4.csproj.CoreCompileInputs.cache
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/3chapter/ThirdBit0or1_4/obj/Debug/netcoreapp2.2/ThirdBit0or1_4.AssemblyInfoInputs.cache
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/3chapter/ThirdBit0or1_4/obj/Debug/netcoreapp2.2/ThirdBit0or1_4.AssemblyInfo.cs
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/3chapter/ThirdBit0or1_4/bin/Debug/netcoreapp2.2/ThirdBit0or1_4.deps.json
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/3chapter/ThirdBit0or1_4/bin/Debug/netcoreapp2.2/ThirdBit0or1_4.runtimeconfig.json
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/3chapter/ThirdBit0or1_4/bin/Debug/netcoreapp2.2/ThirdBit0or1_4.runtimeconfig.dev.json
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/3chapter/ThirdBit0or1_4/bin/Debug/netcoreapp2.2/ThirdBit0or1_4.dll
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/3chapter/ThirdBit0or1_4/bin/Debug/netcoreapp2.2/ThirdBit0or1_4.pdb
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/3chapter/ThirdBit0or1_4/obj/Debug/netcoreapp2.2/ThirdBit0or1_4.dll
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/3chapter/ThirdBit0or1_4/obj/Debug/netcoreapp2.2/ThirdBit0or1_4.pdb

@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/3chapter/ThirdBit0or1_4/ThirdBit0or1_4.csproj": {}
+  },
+  "projects": {
+    "/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/3chapter/ThirdBit0or1_4/ThirdBit0or1_4.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/3chapter/ThirdBit0or1_4/ThirdBit0or1_4.csproj",
+        "projectName": "ThirdBit0or1_4",
+        "projectPath": "/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/3chapter/ThirdBit0or1_4/ThirdBit0or1_4.csproj",
+        "packagesPath": "/home/thicckwire/.nuget/packages/",
+        "outputPath": "/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/3chapter/ThirdBit0or1_4/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/thicckwire/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

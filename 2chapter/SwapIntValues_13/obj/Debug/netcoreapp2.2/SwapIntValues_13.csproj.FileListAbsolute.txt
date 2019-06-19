@@ -1,0 +1,11 @@
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/2chapter/SwapIntValues_13/bin/Debug/netcoreapp2.2/SwapIntValues_13.deps.json
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/2chapter/SwapIntValues_13/bin/Debug/netcoreapp2.2/SwapIntValues_13.runtimeconfig.json
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/2chapter/SwapIntValues_13/bin/Debug/netcoreapp2.2/SwapIntValues_13.runtimeconfig.dev.json
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/2chapter/SwapIntValues_13/bin/Debug/netcoreapp2.2/SwapIntValues_13.dll
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/2chapter/SwapIntValues_13/bin/Debug/netcoreapp2.2/SwapIntValues_13.pdb
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/2chapter/SwapIntValues_13/obj/Debug/netcoreapp2.2/SwapIntValues_13.csprojAssemblyReference.cache
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/2chapter/SwapIntValues_13/obj/Debug/netcoreapp2.2/SwapIntValues_13.csproj.CoreCompileInputs.cache
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/2chapter/SwapIntValues_13/obj/Debug/netcoreapp2.2/SwapIntValues_13.AssemblyInfoInputs.cache
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/2chapter/SwapIntValues_13/obj/Debug/netcoreapp2.2/SwapIntValues_13.AssemblyInfo.cs
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/2chapter/SwapIntValues_13/obj/Debug/netcoreapp2.2/SwapIntValues_13.dll
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/2chapter/SwapIntValues_13/obj/Debug/netcoreapp2.2/SwapIntValues_13.pdb

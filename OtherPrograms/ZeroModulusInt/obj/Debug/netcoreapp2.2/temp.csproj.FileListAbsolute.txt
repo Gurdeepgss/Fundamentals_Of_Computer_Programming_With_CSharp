@@ -1,0 +1,11 @@
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/3chapter/DivisibleByBoth5And7/temp/bin/Debug/netcoreapp2.2/temp.deps.json
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/3chapter/DivisibleByBoth5And7/temp/bin/Debug/netcoreapp2.2/temp.runtimeconfig.json
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/3chapter/DivisibleByBoth5And7/temp/bin/Debug/netcoreapp2.2/temp.runtimeconfig.dev.json
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/3chapter/DivisibleByBoth5And7/temp/bin/Debug/netcoreapp2.2/temp.dll
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/3chapter/DivisibleByBoth5And7/temp/bin/Debug/netcoreapp2.2/temp.pdb
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/3chapter/DivisibleByBoth5And7/temp/obj/Debug/netcoreapp2.2/temp.csprojAssemblyReference.cache
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/3chapter/DivisibleByBoth5And7/temp/obj/Debug/netcoreapp2.2/temp.csproj.CoreCompileInputs.cache
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/3chapter/DivisibleByBoth5And7/temp/obj/Debug/netcoreapp2.2/temp.AssemblyInfoInputs.cache
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/3chapter/DivisibleByBoth5And7/temp/obj/Debug/netcoreapp2.2/temp.AssemblyInfo.cs
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/3chapter/DivisibleByBoth5And7/temp/obj/Debug/netcoreapp2.2/temp.dll
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/3chapter/DivisibleByBoth5And7/temp/obj/Debug/netcoreapp2.2/temp.pdb

@@ -1,0 +1,11 @@
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/2chapter/EmployeeDetails_12/obj/Debug/netcoreapp2.2/EmployeeDetails_12.csprojAssemblyReference.cache
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/2chapter/EmployeeDetails_12/obj/Debug/netcoreapp2.2/EmployeeDetails_12.csproj.CoreCompileInputs.cache
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/2chapter/EmployeeDetails_12/obj/Debug/netcoreapp2.2/EmployeeDetails_12.AssemblyInfoInputs.cache
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/2chapter/EmployeeDetails_12/obj/Debug/netcoreapp2.2/EmployeeDetails_12.AssemblyInfo.cs
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/2chapter/EmployeeDetails_12/bin/Debug/netcoreapp2.2/EmployeeDetails_12.deps.json
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/2chapter/EmployeeDetails_12/bin/Debug/netcoreapp2.2/EmployeeDetails_12.runtimeconfig.json
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/2chapter/EmployeeDetails_12/bin/Debug/netcoreapp2.2/EmployeeDetails_12.runtimeconfig.dev.json
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/2chapter/EmployeeDetails_12/bin/Debug/netcoreapp2.2/EmployeeDetails_12.dll
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/2chapter/EmployeeDetails_12/bin/Debug/netcoreapp2.2/EmployeeDetails_12.pdb
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/2chapter/EmployeeDetails_12/obj/Debug/netcoreapp2.2/EmployeeDetails_12.dll
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/2chapter/EmployeeDetails_12/obj/Debug/netcoreapp2.2/EmployeeDetails_12.pdb
