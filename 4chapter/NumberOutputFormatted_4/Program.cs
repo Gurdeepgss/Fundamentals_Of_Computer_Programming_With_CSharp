@@ -19,7 +19,7 @@ namespace NumberOutputFormatted_4
 			/* Print formatted Output */
 			Console.WriteLine();
 			/* hecadecimal format only works for number of Integer type like byte, short, int*/
-			Console.Write($"{oneNumber,-10:X}");
+			Console.Write($"0x{oneNumber,-10:X}");
 			Console.Write($"{twoNumber,-10:F}");
 			Console.Write($"{threeNumber,-10:F}");
 			Console.WriteLine();
