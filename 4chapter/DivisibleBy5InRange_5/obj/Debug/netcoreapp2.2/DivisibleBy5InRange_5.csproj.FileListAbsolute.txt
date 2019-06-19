@@ -1,0 +1,11 @@
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/4chapter/DivisibleBy5InRange_5/bin/Debug/netcoreapp2.2/DivisibleBy5InRange_5.deps.json
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/4chapter/DivisibleBy5InRange_5/bin/Debug/netcoreapp2.2/DivisibleBy5InRange_5.runtimeconfig.json
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/4chapter/DivisibleBy5InRange_5/bin/Debug/netcoreapp2.2/DivisibleBy5InRange_5.runtimeconfig.dev.json
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/4chapter/DivisibleBy5InRange_5/bin/Debug/netcoreapp2.2/DivisibleBy5InRange_5.dll
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/4chapter/DivisibleBy5InRange_5/bin/Debug/netcoreapp2.2/DivisibleBy5InRange_5.pdb
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/4chapter/DivisibleBy5InRange_5/obj/Debug/netcoreapp2.2/DivisibleBy5InRange_5.csprojAssemblyReference.cache
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/4chapter/DivisibleBy5InRange_5/obj/Debug/netcoreapp2.2/DivisibleBy5InRange_5.csproj.CoreCompileInputs.cache
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/4chapter/DivisibleBy5InRange_5/obj/Debug/netcoreapp2.2/DivisibleBy5InRange_5.AssemblyInfoInputs.cache
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/4chapter/DivisibleBy5InRange_5/obj/Debug/netcoreapp2.2/DivisibleBy5InRange_5.AssemblyInfo.cs
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/4chapter/DivisibleBy5InRange_5/obj/Debug/netcoreapp2.2/DivisibleBy5InRange_5.dll
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/4chapter/DivisibleBy5InRange_5/obj/Debug/netcoreapp2.2/DivisibleBy5InRange_5.pdb
