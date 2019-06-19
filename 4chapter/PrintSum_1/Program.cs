@@ -29,9 +29,9 @@ namespace PrintSum_1
 			 * double.Parse().
 			 */
 			Console.Write("Enter third number: ");
-			double thirdNumber = float.Parse(Console.ReadLine());
+			float thirdNumber = float.Parse(Console.ReadLine());
 
-			double sumOf3 = firstNumber + secondNumber + thirdNumber;
+			float sumOf3 = firstNumber + secondNumber + thirdNumber;
 			Console.WriteLine($"Sum of {firstNumber} + {secondNumber} + {thirdNumber} is {sumOf3}.");
 			Console.WriteLine($"Or Simply {firstNumber} + {secondNumber} + {thirdNumber} = {sumOf3}");
         }
