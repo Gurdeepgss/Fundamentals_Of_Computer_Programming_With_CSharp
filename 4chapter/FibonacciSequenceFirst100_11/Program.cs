@@ -11,10 +11,11 @@ namespace FibonacciSequenceFirst100_11
 			double present = 1;
 			double previous = 0;
 			double sum = 0;
+			int index = 0;
 
-			Console.WriteLine($"{previous,2}\n{present,2}");
+			Console.WriteLine($"{++index,3}. {previous,2}\n{++index,3}. {present,2}");
 
-			for(int index = 0; index < 100; index++)
+			for(; index < 100; index++)
 			{
 				sum = present + previous;
 				previous = present;
