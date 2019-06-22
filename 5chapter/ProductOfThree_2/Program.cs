@@ -16,60 +16,94 @@ namespace ProductOfThree_2
 			Console.Write("Enter number 3: ");
 			double thirdNumber = double.Parse(Console.ReadLine());
 
-			/* Compute the sign witout performing multiplication */
-			string sign = "";
+			/* using counter on number of negative numbers (Book's Implementation)*/
+			int negativeNumberCount = 0;
 			if(firstNumber < 0)
 			{
-				if(secondNumber < 0)
-				{
-					if(thirdNumber < 0)
-					{
-						sign = "negative";
-					}
-					else if(thirdNumber > 0)
-					{
-						sign = "positive";
-					}
-				}
-				if(secondNumber > 0)
-				{
-					if(thirdNumber < 0)
-					{
-						sign = "positive";
-					}
-					else if(thirdNumber > 0)
-					{
-						sign = "negative";
-					}
-				}
+				negativeNumberCount++;
 			}
-			else if(firstNumber > 0)
+			if(secondNumber < 0)
 			{
-				if(secondNumber < 0)
-				{
-					if(thirdNumber < 0)
-					{
-						sign = "positive";
-					}
-					else if(thirdNumber > 0)
-					{
-						sign = "negative";
-					}
-				}
-				if(secondNumber > 0)
-				{
-					if(thirdNumber < 0)
-					{
-						sign = "negative";
-					}
-					else if(thirdNumber > 0)
-					{
-						sign = "positive";
-					}
-				}
+				negativeNumberCount++;
+			}
+			if(thirdNumber < 0)
+			{
+				negativeNumberCount++;
 			}
 
-			Console.WriteLine($"The sign of multiplication of numbers {firstNumber} * {secondNumber} * {thirdNumber} is: {sign}");
+			string sign = "";
+			if(firstNumber == 0 || secondNumber == 0 || thirdNumber == 0)
+			{
+				Console.WriteLine($"Product of numbers {firstNumber}, {secondNumber}, {thirdNumber} is: 0.");
+				Console.WriteLine("The Product holds no sign since it is 0 i.e. zero.");
+			}
+			else
+			{
+				if(negativeNumberCount % 2 == 0)
+				{
+					sign = "positive";
+				}
+				else
+				{
+					sign = "negative";
+				}
+				Console.WriteLine($"The sign of multiplication of numbers {firstNumber} * {secondNumber} * {thirdNumber} is: {sign}");
+			}
+
+
+			/* My implementation */
+//			/* Compute the sign witout performing multiplication */
+//			string sign = "";
+//			if(firstNumber < 0)
+//			{
+//				if(secondNumber < 0)
+//				{
+//					if(thirdNumber < 0)
+//					{
+//						sign = "negative";
+//					}
+//					else if(thirdNumber > 0)
+//					{
+//						sign = "positive";
+//					}
+//				}
+//				if(secondNumber > 0)
+//				{
+//					if(thirdNumber < 0)
+//					{
+//						sign = "positive";
+//					}
+//					else if(thirdNumber > 0)
+//					{
+//						sign = "negative";
+//					}
+//				}
+//			}
+//			else if(firstNumber > 0)
+//			{
+//				if(secondNumber < 0)
+//				{
+//					if(thirdNumber < 0)
+//					{
+//						sign = "positive";
+//					}
+//					else if(thirdNumber > 0)
+//					{
+//						sign = "negative";
+//					}
+//				}
+//				if(secondNumber > 0)
+//				{
+//					if(thirdNumber < 0)
+//					{
+//						sign = "negative";
+//					}
+//					else if(thirdNumber > 0)
+//					{
+//						sign = "positive";
+//					}
+//				}
+//			}
         }
     }
 }
