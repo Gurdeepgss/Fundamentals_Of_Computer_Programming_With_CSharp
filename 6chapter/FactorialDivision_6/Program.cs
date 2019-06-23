@@ -13,21 +13,22 @@ namespace FactorialDivision_6
 			Console.Write("Enter k: ");
 			long k = long.Parse(Console.ReadLine());
 
-			double kfactorial = 1;
-			double nfactorial = 1;
+			double kFactorial = 1;
+			double nFactorial = 1;
+			double nMinus
 			for(int index = 1; index <= n; index++)
 			{
-				nfactorial *= index;
+				nFactorial *= index;
 
 				if(index == k)
 				{
-					kfactorial = nfactorial;
+					kFactorial = nFactorial;
 				}
 			}
 
-			Console.WriteLine($"{n}! = {nfactorial}, {k}! = {kfactorial}.");
+			Console.WriteLine($"{n}! = {nFactorial}, {k}! = {kFactorial}.");
 
-			double factorialDivision = nfactorial / kfactorial;
+			double factorialDivision = nFactorial / kFactorial;
 
 			Console.WriteLine($"{n}! / {k}! is: {factorialDivision}.");
         }
