@@ -1,0 +1,11 @@
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/6chapter/SmallestAndLargest_3/obj/Debug/netcoreapp2.2/SmallestAndLargest_3.csprojAssemblyReference.cache
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/6chapter/SmallestAndLargest_3/obj/Debug/netcoreapp2.2/SmallestAndLargest_3.csproj.CoreCompileInputs.cache
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/6chapter/SmallestAndLargest_3/obj/Debug/netcoreapp2.2/SmallestAndLargest_3.AssemblyInfoInputs.cache
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/6chapter/SmallestAndLargest_3/obj/Debug/netcoreapp2.2/SmallestAndLargest_3.AssemblyInfo.cs
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/6chapter/SmallestAndLargest_3/bin/Debug/netcoreapp2.2/SmallestAndLargest_3.deps.json
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/6chapter/SmallestAndLargest_3/bin/Debug/netcoreapp2.2/SmallestAndLargest_3.runtimeconfig.json
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/6chapter/SmallestAndLargest_3/bin/Debug/netcoreapp2.2/SmallestAndLargest_3.runtimeconfig.dev.json
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/6chapter/SmallestAndLargest_3/bin/Debug/netcoreapp2.2/SmallestAndLargest_3.dll
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/6chapter/SmallestAndLargest_3/bin/Debug/netcoreapp2.2/SmallestAndLargest_3.pdb
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/6chapter/SmallestAndLargest_3/obj/Debug/netcoreapp2.2/SmallestAndLargest_3.dll
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/6chapter/SmallestAndLargest_3/obj/Debug/netcoreapp2.2/SmallestAndLargest_3.pdb
