@@ -1,0 +1,11 @@
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/6chapter/NthCatalanNumber_8/obj/Debug/netcoreapp2.2/NthCatalanNumber_8.csprojAssemblyReference.cache
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/6chapter/NthCatalanNumber_8/obj/Debug/netcoreapp2.2/NthCatalanNumber_8.csproj.CoreCompileInputs.cache
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/6chapter/NthCatalanNumber_8/obj/Debug/netcoreapp2.2/NthCatalanNumber_8.AssemblyInfoInputs.cache
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/6chapter/NthCatalanNumber_8/obj/Debug/netcoreapp2.2/NthCatalanNumber_8.AssemblyInfo.cs
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/6chapter/NthCatalanNumber_8/bin/Debug/netcoreapp2.2/NthCatalanNumber_8.deps.json
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/6chapter/NthCatalanNumber_8/bin/Debug/netcoreapp2.2/NthCatalanNumber_8.runtimeconfig.json
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/6chapter/NthCatalanNumber_8/bin/Debug/netcoreapp2.2/NthCatalanNumber_8.runtimeconfig.dev.json
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/6chapter/NthCatalanNumber_8/bin/Debug/netcoreapp2.2/NthCatalanNumber_8.dll
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/6chapter/NthCatalanNumber_8/bin/Debug/netcoreapp2.2/NthCatalanNumber_8.pdb
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/6chapter/NthCatalanNumber_8/obj/Debug/netcoreapp2.2/NthCatalanNumber_8.dll
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/6chapter/NthCatalanNumber_8/obj/Debug/netcoreapp2.2/NthCatalanNumber_8.pdb
