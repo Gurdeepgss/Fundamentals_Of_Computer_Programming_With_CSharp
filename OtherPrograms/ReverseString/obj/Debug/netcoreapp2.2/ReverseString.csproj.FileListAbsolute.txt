@@ -1,0 +1,11 @@
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/OtherPrograms/ReverseString/bin/Debug/netcoreapp2.2/ReverseString.deps.json
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/OtherPrograms/ReverseString/bin/Debug/netcoreapp2.2/ReverseString.runtimeconfig.json
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/OtherPrograms/ReverseString/bin/Debug/netcoreapp2.2/ReverseString.runtimeconfig.dev.json
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/OtherPrograms/ReverseString/bin/Debug/netcoreapp2.2/ReverseString.dll
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/OtherPrograms/ReverseString/bin/Debug/netcoreapp2.2/ReverseString.pdb
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/OtherPrograms/ReverseString/obj/Debug/netcoreapp2.2/ReverseString.csprojAssemblyReference.cache
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/OtherPrograms/ReverseString/obj/Debug/netcoreapp2.2/ReverseString.csproj.CoreCompileInputs.cache
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/OtherPrograms/ReverseString/obj/Debug/netcoreapp2.2/ReverseString.AssemblyInfoInputs.cache
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/OtherPrograms/ReverseString/obj/Debug/netcoreapp2.2/ReverseString.AssemblyInfo.cs
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/OtherPrograms/ReverseString/obj/Debug/netcoreapp2.2/ReverseString.dll
+/home/thicckwire/Documents/source/repos/programs_FundamentalsOfComputerProgrammingWithC#/OtherPrograms/ReverseString/obj/Debug/netcoreapp2.2/ReverseString.pdb
